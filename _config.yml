@@ -13,11 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Sarcophagus - Dead Man's Switch
+title: Sw69p
 #email: ""
-description: A decentralized, crypto-powered dead man's switch built on ethereum and arweave.
-#baseurl: "." # Subpath of your site, e.g. /blog. Prepend a dot for links to assets for compatability on Arweave.
-url: "https://sarcophagus.io" # the base hostname & protocol for your site, e.g. http://example.com
+description: 
+url: "https://sw69p.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 #repository: "/sarcophagus-org/marketing_site"
@@ -29,11 +28,7 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
-  - how_it_works.html
-  - sarco_token.html
-  - incentives.html
-  - about.html
-  - blog.html
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
