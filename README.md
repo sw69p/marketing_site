@@ -1,7 +1,3 @@
-# Sarcophagus Website
-
-Public facing site built with bootstrap 4 and jekyll hosted on github pages.
-
 ## Build for Arweave
 
 The script `arweave_build.py` creates a build for deploying the Jekyll website on the permaweb.
