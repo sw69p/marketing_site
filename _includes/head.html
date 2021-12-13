@@ -28,5 +28,14 @@ font-family: Courier New;
 }
     
 </style> 
+    
+<script>
+// after dom is loaded
+$(function() {
+  // scroll all the way down
+  $('html, body').scrollTop($(document).height() - $(window).height());
+});
+</script>
+
 
 </head>
